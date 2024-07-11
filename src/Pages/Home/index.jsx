@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Components/Card';
-import api from './api';
+import api from '../../api';
 
 const Home = () => {
   const [produtos, setProdutos] = React.useState([]);
