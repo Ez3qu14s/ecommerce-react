@@ -1,5 +1,6 @@
-@media (max-width: 340px) {
-  .text-button {
-    display: none;
+@media (min-width: 768px) {
+  .grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
   }
 }
