@@ -1,0 +1,9 @@
+@media (max-width: 680px) {
+  .input {
+    display: none;
+  }
+
+  .text-button {
+    display: none;
+  }
+}
